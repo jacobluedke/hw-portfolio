@@ -12,3 +12,13 @@ I will also continue practicing how to orgainize elements so when the size of th
 ## Update to the portfolio
 
 I added our first project to the portfolio, and as I continue creating projects and webpages I will continue adding them.
+
+I didn't have access to our projects pages link so I didn't link that to the image. For now it brings you to the github repo, and once I have access to the pages link I will add that instead. 
+
+Link 
+
+https://github.com/Tgarrey37/super-team-project
+
+
+
+
