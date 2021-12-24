@@ -159,7 +159,8 @@ h2 {
     margin: 0 auto;
 }
 .card-top img {
-    
+    height: 300px;
+    width: 650px;
 }
 
 .card-top img:hover {
