@@ -1,24 +1,39 @@
+  ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+  # Portfolio
+  ## Description
+  This is my portfolio with a section about me, links to my pages and examples of my projects.
 
+  ## Table of Contents
+  [Installation](#installation)
 
-#This is my first attempt at a Portfolio.
+  [Usage](#usage)
 
-I included my first homework as my top webpage and used placeholders for everything else.
+  [Contributing](#contributing)
 
-As I create more websites outside of class I will also create other portfolios to practice making it look more professional and function the way that it is supposed to.
+  [License](#license)
 
-I will also continue practicing how to orgainize elements so when the size of the screen changes, everthing is layed out the correct way.
+  [Questions](#questions)
 
+  [Screenshots](#screenshots)
+  
+  ## Usage
+  Open the app through the deployed link
+  ## Contributing
+  Jacob Luedke
+  ## License
+  The license used is MIT
 
-## Update to the portfolio
+  Find the license link here: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+  ## Questions
+  GitHub Username: jacobluedke
 
-I added our first project to the portfolio, and as I continue creating projects and webpages I will continue adding them.
+  Link to GitHub: [https://github.com/jacobluedke](https://github.com/jacobluedke)
 
-I didn't have access to our projects pages link so I didn't link that to the image. For now it brings you to the github repo, and once I have access to the pages link I will add that instead. 
+  Link to deployed application: [https://jacobluedke.github.io/day-planner/](https://jacobluedke.github.io/day-planner/)
+  ## Screenshots
+  
+  Portfolio Screenshot
 
-Link 
-
-https://github.com/Tgarrey37/super-team-project
-
-
+  ![portfolio screenshot](/assets/images/portfolio-ss.png)
 
 
