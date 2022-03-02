@@ -4,24 +4,19 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 html {
     scroll-behavior: smooth;
 }
-
 body {
     line-height: 1.6;
     height: 200vh;
     background-color: #ad2831;
-    
 }
-
 .total-container {
     width: 100%;
     height: 100%;
     /*add smooth scroll*/
 }
-
 .header {
     text-transform: uppercase;
     background-color: #800e13;
@@ -31,40 +26,30 @@ body {
     position: fixed;
     width: 100%;
 }
-
-
-
 .navbar {
     background-color: #800e13;
 }
-
 h1 {
     font-size: 200%;
 }
-
 nav ul {
     list-style: none;
-
 }
-
 nav ul li {
     font-size: 150%;
     display: inline-block;
     padding: 0px 25px;
 }
-
 nav ul li a {
     text-transform: uppercase;
     text-decoration: none;
     color: #250902;
     transition: all 0.3s ease 0s;
 }
-
 nav ul li a:hover {
     color: white;
     text-decoration: underline;
 }
-
 .main-content {
     display: flex;
     flex-direction: column;
@@ -75,65 +60,52 @@ nav ul li a:hover {
     width: 100%;
     height: 100vh;
 }
-
 #about-me {
     margin-top: 100vh;
     height: 100vh;
     display: inline-block;
-    
 }
-
-
 #paragraphs {
     float: left;
     padding-left: 30px;
 }
-
-
-
 #about-me img {
     padding-top: 20px;
     float: right;
     padding: 20px;
 }
-
 h2 {
     display: flex;
     flex-wrap: wrap;
     padding: 60px;
     background: #38040e;
     color: #fff;
-  
 }
-
 #work {
     display: flex;
     height: 200vh;
     background-color: #ad2831;
 }
-
 .cards {
     display: flex;
     margin-top: 2%;
     flex-wrap: wrap;
-   
 }
-
 .card {
+    width: 400px;
+    height: 250px;
     justify-content: center;
     flex: 1 0 400px;
     padding: 10px;
     border-style: solid;
     border-width: 1px;
 }
-
 .card-top header {
     padding: 15px;
     background: #800e13;
     color: #fff;
     width: 50%;
 }
-  
 .card header {
     margin: auto;
     padding: 20px;
@@ -142,17 +114,13 @@ h2 {
     width: 50%;
     text-align: center;
 }
-  
 .card img {
     width: 50%;
     max-width: 300px;
 }
-
 .card img:hover {
-    
     cursor: pointer;
 }
-
 .card-top {
     display: flex;
     width: 80%;
@@ -162,7 +130,6 @@ h2 {
     height: 300px;
     width: 650px;
 }
-
 .card-top img:hover {
     
 }
@@ -174,11 +141,13 @@ h2 {
     background-color: #800e13;
     height: 100px;
     width: 100%;
-
 }
-
 .contact-info li {
     padding: 30px 50px;
     list-style-type: none;
     display:inline-block;
+}
+
+h3 {
+    font-size: 30px;
 }
